@@ -1,0 +1,26 @@
+{
+    "name": "dexter",
+    "version": "0.6.3",
+    "description": "a responsive JS Client framework with the power of backbone.js and requireJS",
+    "main": "index.html",
+    "directories": {
+        "test": "test"
+    },
+    "dependencies": {
+        "bower": "git+https://github.com/Riplexus/bower.git"
+    },
+    "devDependencies": {
+        "karma": "0.10.x",
+        "karma-coverage": "0.1.x"
+    },
+    "scripts": {
+        "test": "make test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/godmodelabs/dexter.git"
+    },
+    "author": "Riplexus",
+    "license": "MIT license",
+    "gitHead": "d5a8efca80cc8f82b36956eba5cc962488e09501"
+}
